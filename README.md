@@ -1,4 +1,6 @@
 # Screenshot of This App Below <h1>
+   
+   <img src="https://github.com/VINITRAJ5/Flutter_Show_Booking_App/blob/master/Screenshot/Animated.gif" width="280">
 
 ## This is the Main Screen of App <h2>
    
